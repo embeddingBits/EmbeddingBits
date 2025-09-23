@@ -31,5 +31,5 @@
 
 # Contact
 - 📬 Mail: tspamiitesh@gmail.com
-- Discord: embedding_bits
+- Discord: [here](https://discordapp.com/users/1312819280018018374)
 - [LinkedIn](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
