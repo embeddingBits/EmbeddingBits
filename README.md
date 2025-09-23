@@ -1,8 +1,8 @@
 ## About Me
-- A sophomore student 
-- I do Embedded Systems, Computer Networks, Kernel Development and a fair amount of Systems Programming.
-- C, Zig and Golang enjoyer :)
-- I like to contribute to open source projects in the fields like Networks and Embedded Systems
+- A sophomore college student 
+- I work around Embedded Systems, Networks, OS and some amounts of Systems Programming.
+- C, Golang and Zig enjoyer :)
+- I like to contribute to systems programming and OS open source projects.
 - Check my [portfolio](https://embeddingbits.is-a.dev/)
 - My [blog](https://embeddingbits.is-a.dev/blog)
 
