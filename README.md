@@ -3,6 +3,7 @@
 - I work around Embedded Systems, Networks, OS and some amounts of Systems Programming.
 - C, Golang and Zig enjoyer :)
 - I like to contribute to systems programming and OS open source projects.
+- my [codeberg](https://codeberg.org/embeddingbits)
 - Check my [portfolio](https://embeddingbits.is-a.dev/)
 - My [blog](https://embeddingbits.is-a.dev/blog)
 
