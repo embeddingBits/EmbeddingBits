@@ -25,7 +25,7 @@
 <p align="left">
 </p>
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=embeddingbits&theme=gruvbox)   ![GitHub Stats](https://githubcard.com/embeddingbits.svg?d=ySTLQxid)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=embeddingbits&theme=gruvbox)  ![GitHubCard](https://githubcard.com/g/AY02Tx_y.svg)
 
 
 
