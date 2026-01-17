@@ -14,4 +14,5 @@
 - Discord: [embeddingbits](https://discordapp.com/users/1312819280018018374)
 - LinkedIn: https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/
 - Medium: https://medium.com/@tspamiitesh
+- Mastodon: https://mastodon.social/@ebits
 - Fossunited: https://fossunited.org/u/ebits
