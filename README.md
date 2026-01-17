@@ -11,7 +11,7 @@
 
 # Contact and Links
 - 📬 Mail: tspamiitesh@gmail.com
-- Discord: https://discordapp.com/users/1312819280018018374
+- Discord: [embeddingbits](https://discordapp.com/users/1312819280018018374)
 - LinkedIn: https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/
 - Medium: https://medium.com/@tspamiitesh
-- Fossunited - https://fossunited.org/u/ebits
+- Fossunited: https://fossunited.org/u/ebits
