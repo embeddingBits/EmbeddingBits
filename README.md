@@ -5,8 +5,9 @@
 </div>
 
 ## About Me
-- A sophomore college student who works in Embedded Systems, OS, VLSI and Systems Programming.
-- C, Zig, Verilog enjoyer :)
+- A sophomore college student who works in Embedded Systems, VLSI and Low-level systems.
+- I explore and advocte FOSS and also contribute to some of my favourites
+- C/C++, Zig, Verilog enjoyer :)
 - [Software and Tech Stack that I like and use](https://embeddingbits.is-a.dev/software)
 
 # Contact and Links
