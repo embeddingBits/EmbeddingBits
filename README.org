@@ -4,12 +4,13 @@
 
 * About Me
 - A sophomore college student who works in Embedded Systems, VLSI, and low-level systems.
+- I like Emacs and Arch Linux 
 - I explore and advocate FOSS and also contribute to some of my favourites.
 - C/C++, Zig, Verilog enjoyer :)
 - [[https://embeddingbits.is-a.dev/software][Software and Tech Stack that I like and use]]
 
 * Contact and Links
-- 📬 Mail: tspamiitesh@gmail.com
+- Mail: tspamiitesh@gmail.com
 - Discord: [[https://discordapp.com/users/1312819280018018374][embeddingbits]]
 - LinkedIn: [[https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/]]
 - Medium: [[https://medium.com/@tspamiitesh]]
