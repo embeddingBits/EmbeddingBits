@@ -4,7 +4,7 @@
 
 * About Me
 - A sophomore college student who works in Embedded Systems, VLSI, and low-level systems.
-- I like Emacs and Arch Linux 
+- I'm a Arch Linux and a Emacs user
 - I explore and advocate FOSS and also contribute to some of my favourites.
 - C/C++, Zig, Verilog enjoyer :)
 - [[https://embeddingbits.is-a.dev/software][Software and Tech Stack that I like and use]]
