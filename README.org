@@ -3,8 +3,7 @@
 #+HTML:</div>
 
 * About Me
-- A really ardent fan of FOSS, Linux and GNU tools.
-- I'm a Arch Linux and a Emacs user.
+- I'm an Arch Linux and an Emacs user.
 - I explore and advocate FOSS and also contribute to some of my favourites.
 - C/C++, Zig, Verilog enjoyer :)
 - [[https://embeddingbits.is-a.dev/software][Software and Tech Stack that I like and use]]
