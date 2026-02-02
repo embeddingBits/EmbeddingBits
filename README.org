@@ -3,9 +3,10 @@
 #+HTML:</div>
 
 * About Me
+- I'm an electronics engineer and I predominantly work with embedded systems, low-level programming and VLSI
 - I'm an Arch Linux and an Emacs user.
 - I explore and advocate FOSS and also contribute to some of my favourites.
-- C/C++, Zig, Verilog enjoyer :)
+- C/C++, Golang, Verilog enjoyer :)
 - [[https://embeddingbits.is-a.dev/software][Software and Tech Stack that I like and use]]
 
 * Contact and Links
